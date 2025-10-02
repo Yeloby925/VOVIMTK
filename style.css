@@ -1,0 +1,22 @@
+h1 {
+    color:#5089EB;
+    font-size: 50px;
+    background-color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    border: dashed 5px #5089EB;
+    border-radius: 100px 50px 50px 10px;
+    border-width: 5px;
+    border-style:dashed
+    margin: 5px
+
+
+}
+
+body {
+    background-color: beige;
+    color:black;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+#GenerationZero
